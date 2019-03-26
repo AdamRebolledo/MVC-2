@@ -19,7 +19,7 @@
                 <div class="row">
                     <div class="col-md-8">
                         <h1 class="p-4">Agregar Persona</h1>
-                        <form action="Controlador" >
+                        <form action="Controlador"  method="POST">
                             
                             <div class="form-group">
                                 <input type="text" name="rut" class="form-control" id=""  placeholder="RUT">
